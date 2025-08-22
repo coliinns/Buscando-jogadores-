@@ -32,7 +32,7 @@ const client = new Client({
 });
 
 const CANAL_BUSCANDO = "1408186643696980108"; 
-const CANAL_CONVITES = "1392555751351914517";
+const CANAL_CONVITES = "1360720462518157514";
 
 const pedidosAtivos = new Map();
 
