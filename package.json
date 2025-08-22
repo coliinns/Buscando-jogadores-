@@ -1,0 +1,13 @@
+{
+  "name": "bot-discord-convites",
+  "version": "1.0.0",
+  "description": "Bot de convites GTA para Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
